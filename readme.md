@@ -34,3 +34,5 @@ https://github.com/carlessanzmateu/the-last-sunset/blob/master/next-features.md
 ## ¿Que me he perdido?
 
 Puedes ver las últimas novedades en log.md
+
+https://github.com/carlessanzmateu/the-last-sunset/blob/master/log.md
