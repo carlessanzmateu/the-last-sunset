@@ -25,14 +25,18 @@ No es un manual de rol (*No es la idea dar unas normas aunque se prevee a futuro
 
 El proyecto incluye una serie de plantillas para crear contenido. Son muy descriptivos y te indican paso por paso cómo crear el contenido que quieras aportar.
 
+También contamos con una guía de estilos. Familiarizate con las normas básicas antes de enviar tus colaboraciones
+
+https://github.com/carlessanzmateu/the-last-sunset/blob/master/style-guide.md
+
 ## ¿Que está por llegar?
 
-Puedes verificar las próximas novedades en next-features.md
+Puedes verificar las próximas novedades en `next-features.md`
 
 https://github.com/carlessanzmateu/the-last-sunset/blob/master/next-features.md
 
 ## ¿Que me he perdido?
 
-Puedes ver las últimas novedades en log.md
+Puedes ver las últimas novedades en `log.md`
 
 https://github.com/carlessanzmateu/the-last-sunset/blob/master/log.md
